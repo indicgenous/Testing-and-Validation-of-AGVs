@@ -1,6 +1,7 @@
 # Testing-and-Validation-of-AGVs  
 
-Contributers - 	Shivangi Singh     (shivangi1807@gmail.com)<br>
+Contributers - 
+              	Shivangi Singh     (shivangi1807@gmail.com)<br>
                 Siddharth Mishra   (sidm5387@gmail.com) <Br> 
 
 # Introduction 
